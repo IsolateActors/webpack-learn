@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=JSON.parse('{"username":"xiaoming"}');console.log("fn1"),console.log(o)})();
